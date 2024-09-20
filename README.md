@@ -12,8 +12,8 @@ This is a full-stack web application using the MERN (MongoDB, Express, React, No
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/DarshanVdiwani/Doctor_appoinment_booking_System.git
+cd Doctor_appoinment_booking_System
 ```
 
 ---
