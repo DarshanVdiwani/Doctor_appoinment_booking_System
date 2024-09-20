@@ -37,7 +37,7 @@ const SidePanel = ({ doctorId, ticketPrice, timeSlots }) => {
 
             if (data.order.id) {
                 const options = {
-                    key: "rzp_test_bVMiP9CNDWIwaS",
+                    key: "dtyfyfjjhhihuih",    // here your razorpay key
                     amount: ticketPrice * 100, // Convert ticket price to paise (1 INR = 100 paise)
                     currency: 'INR',
                     name: 'Diwani Hospital',
